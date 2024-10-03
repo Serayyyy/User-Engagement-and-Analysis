@@ -25,8 +25,7 @@ This metric helps us understand at which stage users make payments and allows us
 ## 3. First Payment, Registration, and Trial Start
 Examining the dates of the first payment, registration, and trial start allows us to better understand users' subscription processes.
 
-![First Payment - 1](https://github.com/Serayyyy/User-Engagement-and-Analysis/blob/main/First%20Payment%20-%201.png)
-![First Payment - 2](https://github.com/Serayyyy/User-Engagement-and-Analysis/blob/main/First%20Payment%20-%202.png)
+![First Payment ](https://github.com/Serayyyy/User-Engagement-and-Analysis/blob/main/First%20Payment%20-%202.png)
 
 This data enables us to identify necessary improvements to increase conversion rates and helps us analyze the experiences users have during the trial period.
 
